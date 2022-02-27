@@ -106,4 +106,4 @@ if su == "darvin":
 
     yaz1.write(paw1)
 
-    yaz1.close(
+    yaz1.close()
